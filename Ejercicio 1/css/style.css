@@ -1,0 +1,10 @@
+.avatar {
+    width: 200px; /* Define el ancho deseado para las imágenes */
+    height: 200px; /* Define la altura deseada para las imágenes */
+}
+
+.box {
+    display: inline-block; /* Cambiamos la visualización a en línea */
+    margin: 10px; /* Espacio entre las cajas */
+    vertical-align: top; /* Alineamos las cajas en la parte superior */
+}
